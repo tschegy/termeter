@@ -24,7 +24,7 @@ const (
 // panel parameters
 const (
 	HISTOGRAM_BIN_COUNT = 50
-	LIST_WIDTH          = 30
+	LIST_WIDTH          = 50
 	BUFFER_SIZE         = 1000
 )
 
